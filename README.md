@@ -22,5 +22,7 @@ Since we do not collect any data, our app is compliant with children’s privacy
 Although we do not collect data, we may update this privacy policy if our data practices change. In such cases, we will update this document and notify users through the app or relevant platform.
 
 5. Contact Us
+   
 If you have any questions or concerns about this Privacy Policy, feel free to contact us at:
+
 mujaddad333@gmail.com
